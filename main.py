@@ -9,8 +9,6 @@ from get_traffic import get_traffic
 from get_currency import get_currency
 from get_afisha import get_afisha_main
 
-About
-Python bot for vk.com. By entering city allows you to get a weather forecast for today and tomorrow, status of traffic jams in the city, top 5 currencies to ruble, top 5 events for today and tomorrow in the city
 
 '''
 Python bot for vk.com. By entering city allows you to get:
